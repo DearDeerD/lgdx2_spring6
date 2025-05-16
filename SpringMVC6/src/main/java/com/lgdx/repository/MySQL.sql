@@ -1,0 +1,14 @@
+
+
+INSERT INTO BOARD(TITLE, CONTENTS, WRITER)
+VALUES('아직','화요일임. 믿기지가 않네','연휴');
+
+INSERT INTO BOARD(TITLE, CONTENTS, WRITER)
+VALUES('아직','화요일임. 믿기지가 않네','연휴');
+
+INSERT INTO BOARD(TITLE, CONTENTS, WRITER)
+VALUES('아직','화요일임. 믿기지가 않네','연휴');
+
+COMMIT;
+
+SELECT * FROM BOARD;
